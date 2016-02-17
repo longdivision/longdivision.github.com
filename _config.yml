@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Long Division
+subtitle: Software & more by Sean Powell
 description:
-author: John Doe
-language:
-timezone:
+author: Sean Powell
+language: en
+timezone: Europe/London
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://longdivision.co.uk
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
