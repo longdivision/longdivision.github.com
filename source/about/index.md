@@ -2,11 +2,11 @@
 title: About
 date: 2016-02-18 19:50:09
 ---
-I am a software developer and technology enthusiast based in London.
+I am a software developer and technology enthusiast based in London. I currently work for [Trail][Trail].
 
 I maintain a handful of [open source projects][GitHub repos] including [Hex][Hex] - a snappy and fun Hacker News reader.
 
-You can find me on [GitHub][GitHub], [Twitter][Twitter] and [LinkedIn][LinkedIn].
+You can find me on [Twitter][Twitter], [GitHub][GitHub] and [LinkedIn][LinkedIn].
 
 [Trail]: http://trailapp.com
 [GitHub]: https://github.com/longdivision
