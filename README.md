@@ -2,8 +2,6 @@
 
 Source for [longdivision.co.uk](https://www.longdivision.co.uk).
 
-![Hexo demo](themes/hexo-theme-marlow/resources/demo.gif)
-
 ## Run locally
 
 ```sh
