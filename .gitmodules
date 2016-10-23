@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-marlow"]
+	path = themes/hexo-theme-marlow
+	url = git@github.com:longdivision/hexo-theme-marlow.git

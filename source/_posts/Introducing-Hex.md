@@ -1,9 +1,9 @@
 ---
 title: Introducing Hex
 date: 2016-03-07 00:02:41
-tags:
+image: feature.jpg
 ---
-Recently I've been working on [Hex][Hex Play Store], a Hacker News reader for Android. Here is is in action: 
+Recently I've been working on [Hex][Hex Play Store], a Hacker News reader for Android. Here is is in action:
 
 {% asset_img hex-demo.gif Hex %}
 
@@ -31,6 +31,8 @@ These goals will guide Hex's development and roadmap in the months to come. I'm 
 ## Next
 
 There are lots of new features and improvements planned for Hex. If you'd like to know what's coming up the whole development process is [public][Hex Github], and if you've got ideas for where Hex should go I'd love to [hear them][Hex GitHub Issues]! I'm also warmly welcoming anybody wanting to contribute to the project in any way, shape or form. I'm looking forward for what's to come next for Hex :)
+
+<small>_Photo credit to [Tatiana Diakova](https://unsplash.com/@dtatianna)_</small>
 
 [Hex Play Store]: https://play.google.com/store/apps/details?id=com.hexforhn.hex
 [Hacker News API GitHub]: https://github.com/HackerNews/API

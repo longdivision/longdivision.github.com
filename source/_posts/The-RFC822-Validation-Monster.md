@@ -1,7 +1,7 @@
 ---
-title: The RFC822 Validation Monster
+title: The RFC822 validation monster
 date: 2012-11-08 00:00:00
-tags:
+image: feature.jpg
 ---
 I recently saw the [RFC822 valid email address regex][1] again, raised on a [Hacker News post][2]. It's enormous - too long to make any sense of. Here are the first 3 lines (of 82):
 
@@ -21,6 +21,8 @@ Fortunately there was some good advice for the sanest way to deal with addresses
 To get an idea of the kinds of addresses which lead to such a monstrous regex, check out [this list][7].
 
 Credit to [Jabbles][4], [3ds 37][5] and [meaty][6] for raising the above points.
+
+<small>_Photo credit to [Markus Spiske](https://unsplash.com/@markusspiske)_</small>
 
 [1]: http://www.ex-parrot.com/~pdw/Mail-RFC822-Address.html
 [2]: https://news.ycombinator.com/item?id=4793353

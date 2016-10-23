@@ -1,6 +1,5 @@
 ---
 title: About
-date: 2016-02-18 19:50:09
 ---
 I am a software developer and technology enthusiast based in London. I currently work for [Trail][Trail].
 

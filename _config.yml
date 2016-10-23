@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Long Division
-subtitle: Software & more by Sean Powell
-description:
+title: Sean Powell
+subtitle: Software & more
+description: Writings on software & more
 author: Sean Powell
 language: en
 timezone: Europe/London
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://longdivision.co.uk
+url: https://www.longdivision.co.uk/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-marlow
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
